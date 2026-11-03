@@ -1,0 +1,14 @@
+// 2x1 MUX - Behavioral using case
+module mux_2_1(
+    input s,
+    input [1:0] i,
+    output reg y
+);
+    always @(*) begin
+        case(s)
+            1'b0: y = i[0];
+            1'b1: y = i[1];
+            default: y = 1'b0;
+        endcase
+    end
+endmodule
