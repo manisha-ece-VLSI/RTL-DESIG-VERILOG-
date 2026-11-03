@@ -39,4 +39,4 @@ MUX 2:1 - Next
 [ ] Sequential Circuits
 [ ] FSM
 
-Looking for VLSI Internship opportunities.
+Looking for VLSI Internship & job opportunities.
