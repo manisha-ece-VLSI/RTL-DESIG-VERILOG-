@@ -27,7 +27,7 @@
 - Flip-Flops: d_ff, s_r_ff, j_k_ff, t_ff
 
 ## 🛠️ Tools
-Verilog HDL, Xilinx Vivado, ModelSim
+Verilog HDL, Questasim
 
 ## 👩‍💻 Author
 Manisha - ECE VLSI Enthusiast | Seeking VLSI Internship
