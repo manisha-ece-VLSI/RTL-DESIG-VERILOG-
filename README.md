@@ -1,7 +1,8 @@
 # RTL Design with Verilog - VLSI Portfolio
 
-> RTL design portfolio - 18 Verilog modules across 4 projects
+> RTL design portfolio - 18 Verilog modules | [LinkedIn](https://www.linkedin.com/in/gandimidi-manisha)
 
+## 📁 Repository Structure
 ## 📁 Repository Structure
 
 | Project | Description | Modules |
